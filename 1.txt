@@ -2,3 +2,6 @@ First line in new.txt
 Secon
 Third
 fourth
+
+
+seventh
