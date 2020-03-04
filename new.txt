@@ -1,0 +1,3 @@
+First line in new.txt
+Secon
+Third
